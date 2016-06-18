@@ -1,6 +1,8 @@
 # The Memex: What Computers Could Be
 
-In 1945, The Atlantic Monthly published an essay called "As We May Think" by then-Director of the Office of Scientific Research and Development, Dr. Vannevar Bush. This work is considered foundational for laying out a vision of how computers could help us re-organize and better utilize information.
+![https://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg)
+
+In 1945, The Atlantic Monthly published an essay called ["As We May Think"](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true) by then-Director of the Office of Scientific Research and Development, Dr. Vannevar Bush. This work is [considered foundational for laying out a vision](https://en.wikipedia.org/wiki/As_We_May_Think) of how computers could help us re-organize and better utilize information.
 
 In the essay, Bush argues that the next major advance of science should be to make our vast stores of knowledge more accessible and useful. He notes that technology has primarily been used to enhance humanity's physical prowess, and that the time has come to use technology to augment the human mind.
 
