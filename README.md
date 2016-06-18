@@ -1,3 +1,3 @@
-# My Awesome Book
+# Foundations of the Web
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book accompanies the course of the same name. It is currently in development.
