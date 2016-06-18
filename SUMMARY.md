@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [A Social History of the Web](social-history-of-the-web/README.md)
-  * The Memex: What Computers Could Be
+  * [The Memex: What Computers Could Be](social-history-of-the-web/memex.md)
   * The Pre Web: Arpanet to Internet
   * The Early World Wide Web
   * The Bubble
