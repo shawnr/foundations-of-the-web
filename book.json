@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "responsive-iframes"
+        "responsive-iframes",
+        "youtube"
     ],
     "pluginsConfig": {}
 }
