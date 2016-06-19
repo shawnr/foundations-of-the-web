@@ -4,10 +4,10 @@
 * [A Social History of the Web](social-history-of-the-web/README.md)
   * [The Memex: What Computers Could Be](social-history-of-the-web/memex.md)
   * [The Pre Web: Arpanet to Internet](social-history-of-the-web/preweb.md)
-  * The Early World Wide Web
-  * The Bubble
-  * Web 2.0
-  * The Mainstream Web
+  * [The Early World Wide Web](social-history-of-the-web/earlyweb.md)
+  * [The Bubble](social-history-of-the-web/bubble.md)
+  * [Web 2.0](social-history-of-the-web/web2.md)
+  * [The Mainstream Web](social-history-of-the-web/mainstream.md)
 * How the Web Works
   * The Internet: A Series of Tubes
   * Servers and Clients
