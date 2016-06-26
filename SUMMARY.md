@@ -9,10 +9,10 @@
   * [Web 2.0](social-history-of-the-web/web2.md)
   * [The Mainstream Web](social-history-of-the-web/mainstream.md)
 * How the Web Works
-  * The Internet: A Series of Tubes
-  * Servers and Clients
-  * Domains and URLs
-  * Who Controls What?
+  * [The Internet: (not) a Series of Tubes](how-web-works/internet.md)
+  * [Servers and Clients](how-web-works/servers.md)
+  * [Domains and URLs](how-web-works/domains.md)
+  * [Who Controls What?](how-web-works/governance.md)
 * Sharing and Collaboration
   * Collaboration and Cooperation
   * Version Control
