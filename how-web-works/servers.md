@@ -1,3 +1,5 @@
+#Servers and Clients
+
 <p style="text-align: center;"><a href="https://secure.flickr.com/photos/47598386@N00/1659361476"><img style="max-width: 500; max-height: 500;" title="Waycool Machine" src="https://farm3.static.flickr.com/2139/1659361476_ea48f3f8ee.jpg" alt="Waycool Machine" /></a></p>
 <h2>Servers</h2>
 <p>In Web Development, we are primarily concerned with web servers, which are servers designed to send and receive data according to the HyperText Transport Protocol (HTTP). It's important to keep in mind that a "server" is both the word we use for a machine dedicated to serving requests and the software that actually handles the communications. When we think of servers like the ones pictured above, each of those boxes may actually be running hundreds of server applications. And each of those server applications can be assigned a unique IP address and can listen and respond to requests.</p>
