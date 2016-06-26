@@ -1,4 +1,4 @@
-#Network Governance: Who Controls What
+#Who Controls What
 
 <p>Across the Internet and World Wide Web, individuals are connecting machines to the network and they don't require any permission to do so. Anyone can connect a new machine to the network, and anyone can purchase a domain name or be assigned an IP address. There are different groups that guide the creation of standards, and there are certain entities who manage the assignment of names and numbers. But there is no central authority in charge of the Internet.</p>
 <h2>Network Governance</h2>
