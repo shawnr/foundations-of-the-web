@@ -8,7 +8,7 @@
   * [The Bubble](social-history-of-the-web/bubble.md)
   * [Web 2.0](social-history-of-the-web/web2.md)
   * [The Mainstream Web](social-history-of-the-web/mainstream.md)
-* How the Web Works
+* [How the Web Works](how-web-works/README.md)
   * [The Internet: (not) a Series of Tubes](how-web-works/internet.md)
   * [Servers and Clients](how-web-works/servers.md)
   * [Domains and URLs](how-web-works/domains.md)
