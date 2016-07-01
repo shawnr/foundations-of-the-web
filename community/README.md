@@ -1,0 +1,5 @@
+#Web Development and Communities of Practice
+
+It's often portrayed as if web development happens in a bubble. Some small group of geniuses huddles around a table somewhere, tapping out the code to make the most amazing and inscrutable website. It's true that developers on a project are sometimes outnumbered by non-developer production team members, but even in those situations, the development and creation of a website is never a solitary endeavor. At every step of the way our actions and choices are informed and, possibly, defined by a broader community of practice.
+
+On project teams we have many roles that come together to create a successful team. Within the core development group, there is likely to be a mixture of talents and expertise to round out all the skills the project requires. And each of those developers are, in turn, connected with a broader community online that discusses and determines techniques and methods for solving development challenges. All of this together constitutes the community of practice that is at play as we build software for the web.
