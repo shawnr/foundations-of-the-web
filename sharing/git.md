@@ -1,4 +1,4 @@
-#Intro to Git
+#A Bit About Git
 
 <p style="text-align: center;"><a href="https://commons.wikimedia.org/wiki/File:Git-logo.svg#mediaviewer/File:Git-logo.svg"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" alt="Git-logo.svg" width="458" height="195" /></a><br /><span style="font-size: xx-small;">"<a href="https://commons.wikimedia.org/wiki/File:Git-logo.svg#mediaviewer/File:Git-logo.svg">Git-logo</a>" by <a class="external text" href="http://twitter.com/jasonlong">Jason Long</a> - <a class="external free" href="http://git-scm.com/downloads/logos">http://git-scm.com/downloads/logos</a>. Licensed under <a title="Creative Commons Attribution 3.0
 " href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</span></p>
