@@ -2,8 +2,8 @@
 
 <p>Although many web users are familiar with the idea of editing a page using a "Content Management System" such as Wikipedia, fewer users are familiar with the notion of conscientious version control. Most digital content production involves the use of some form of version control. Web development is no exception. This page aims to provide an introduction to the concept of version control and how it fits into a production process.</p>
 <h2>What is "version control"?</h2>
-<p style="text-align: center;"><iframe src="https://player.vimeo.com/video/41027679" width="500" height="281"></iframe></p>
-<p style="text-align: center;"><a href="http://vimeo.com/41027679">What is VCS? (Git-SCM) &bull; Git Basics #1</a> from <a href="http://vimeo.com/github">GitHub</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{% video %}https://player.vimeo.com/video/41027679{% endvideo %}
+
 <p>The video above does a good job explaining the core concepts of version control software. The core concept is something most people can connect with: You want to keep a history of versions of your files so that you can go back to any previous version. We often name files with a date or number such as "v1" so we can keep an old version in backup. Many applications, such as Google Docs and Apple's Time Machine, have added historical file versioning to specific applications. Users appreciate the security of having "backups".</p>
 <p>However, that sort of historical file versioning is inadequate for enabling real collaboration. In order to truly collaborate on a document it's important that we can work simultaneously and then combine our respective changes. In version control language, we need to be able to create a "branch" from the "trunk" timeline for a given file, make edits, and then "merge" our "branch" changes back to the main "trunk". Represented visually, this is basically what that looks like:</p>
 <p><img src="http://upload.wikimedia.org/wikipedia/commons/4/4e/Subversion_project_visualization.svg" alt="" width="815" height="210" /></p>
