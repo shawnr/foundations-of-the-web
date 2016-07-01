@@ -23,27 +23,27 @@
   * [Organizing Development](community/organizing_development.md)
   * [Development Roles](community/development_roles.md)
   * [Developer Communities](community/developer_communities.md)
-* Best Practices and Standards
-  * The World Wide Web Consortium
-  * How are Best Practices and Standards Determined?
-  * Researching Best Practices and Standards
-* Users, Accessibility, and Security
-  * Usability and User Science
-  * Anticipating User Accessibility Needs
-  * Security Basics
-  * Trust and Stewardship
-* How Websites Work
-  * Website Architectures
-  * Intro to Databases
-  * How APIs Work
-  * Content Delivery and Caching
-* Finding and Being Found
-  * Search Engine Optimization
-  * Web Analytics Tools
-  * Openness and Sharing
-* Web Culture
-  * Social Networks
-  * Movements & Tribes
-  * Memes
-  * Studying Web Culture
+* [Best Practices and Standards](standards/README.md)
+  * [The World Wide Web Consortium](standards/wwwc.md)
+  * [How are Best Practices and Standards Determined?](standards/determined.md)
+  * [Researching Best Practices and Standards](standards/researching.md)
+* [Users, Accessibility, and Security](users/README.md)
+  * [Usability and User Science](users/usability.md)
+  * [Anticipating User Accessibility Needs](users/accessibility.md)
+  * [Security Basics](users/security.md)
+  * [Trust and Stewardship](users/trust_and_stewardship.md)
+* [How Websites Work](how-sites-work/README.md)
+  * [Website Architectures](how-sites-work/architectures.md)
+  * [Intro to Databases](how-sites-work/databases.md)
+  * [How APIs Work](how-sites-work/apis.md)
+  * [Content Delivery and Caching](how-sites-work/caching.md)
+* [Finding and Being Found](finding/README.md)
+  * [Search Engine Optimization](finding/seo.md)
+  * [Web Analytics Tools](finding/analytics.md)
+  * [Openness and Sharing](finding/open.md)
+* [Web Culture](culture/README.md)
+  * [Social Networks](culture/social_networks.md)
+  * [Movements & Tribes](culture/movements.md)
+  * [Memes](culture/memes.md)
+  * [Studying Web Culture](culture/studying_web_culture.md)
 
