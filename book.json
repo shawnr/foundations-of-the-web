@@ -2,8 +2,7 @@
     "plugins": [
         "responsive-iframes",
         "youtube",
-        "video",
-        "-videos"
+        "video"
     ],
     "pluginsConfig": {}
 }
