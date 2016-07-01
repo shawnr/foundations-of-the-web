@@ -16,7 +16,7 @@
 * [Sharing and Collaboration](sharing/README.md)
   * [Collaboration and Cooperation](sharing/collaboration.md)
   * [Version Control](sharing/version_control.md)
-  * [Version Control Options](sharing/mcs_options.md)
+  * [Version Control Options](sharing/vcs_options.md)
   * [A Bit About Git](git.md)
   * [Welcome to Github](sharing/github.md)
 * Web Development and the Community of Practice
