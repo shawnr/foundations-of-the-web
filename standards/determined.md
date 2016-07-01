@@ -1,6 +1,7 @@
 #How are Web Standards and Best Practices Determined?
 
-<p style="text-align: center;"><iframe src="https://player.vimeo.com/video/110256895" width="500" height="281" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe></p>
+{% video %}http://vimeo.com/110256895{% endvideo %}
+
 <p><a href="http://vimeo.com/110256895">Web standards for the future</a> from <a href="http://vimeo.com/w3c">W3C</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p style="text-align: left;">Best practices and standards for web development are decided through a long process of discussion and debate among the web development community. These discussions may begin in a few different ways. Sometimes it is clear to the community that there is something that needs to be set forth in order to allow future technology growth. In this case, a larger organization is likely to take on developing a standard and stewarding their solution through the many phases of discussion and approval required to finalize official standards.</p>
 <p style="text-align: left;">The now-defunct <a href="http://www.w3.org/2005/MWI/BPWG/">W3C Mobile Web Best Practices Working Group</a> is a good example of the standards-building process. In that case, the group existed for five years, set forth a bunch of recommendations that were then discussed, and finally integrated their work as a fully-ratified W3C Web Standard (<a href="http://www.w3.org/standards/webdesign/mobilweb">Mobile Web Standards</a>).</p>
