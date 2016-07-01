@@ -13,4 +13,3 @@
 <p>There are many ways to find interesting projects on Github, and they all have a "Create Fork" button, which allows you to clone the project into your own account. From there, you can toy with it as much as you'd like, and if you make an improvement you wish to share, then you can push it back to the project owners. In this way, Github facilitates collaboration on major projects. Anyone can try out anything, and the tools are in place that help developers move work efficiently.</p>
 <h2>Getting Set Up</h2>
 <p>Creating an account on github.com is not very different from creating an account anywhere else online. There is no need to pay for an account on Github -- the free service is very robust. The primary enhancement in the paid service is that you can create private repositories that aren't shared with the world.</p>
-<p><strong>Once you have a Github account, you are ready to go to the next page.</strong></p>
