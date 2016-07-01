@@ -13,12 +13,12 @@
   * [Servers and Clients](how-web-works/servers.md)
   * [Domains and URLs](how-web-works/domains.md)
   * [Who Controls What?](how-web-works/governance.md)
-* Sharing and Collaboration
-  * Collaboration and Cooperation
-  * Version Control
-  * Version Control Options
-  * Intro to Git
-  * Welcome to Github
+* [Sharing and Collaboration](sharing/README.md)
+  * [Collaboration and Cooperation](sharing/collaboration.md)
+  * [Version Control](sharing/version_control.md)
+  * [Version Control Options](sharing/mcs_options.md)
+  * [A Bit About Git](git.md)
+  * [Welcome to Github](sharing/github.md)
 * Web Development and the Community of Practice
   * Organizing Development
   * Development Roles
