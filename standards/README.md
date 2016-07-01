@@ -1,0 +1,9 @@
+#Best Practices and Standards
+
+This week we will be discussing the importance and role of best practices and standards in web development. There are many competing interests online, but we would not be able to have an online economy and interact at a global level were it not for best practices and standards. These guidelines, tacitly accepted by everyone working in web development, define the way that communication between hardware and software takes place. These communications "protocols" form the backbone of Internet technology, and from there standards have been created to define everything from the validity of a URL to the way a web browser should interpret the `<picture>` tag.
+
+In order to have as much of a reliable cross-browser and cross-platform experience as possible, it's essential for everyone to create web content that conforms to standards and emulates best practices as much as possible. Growing and expanding our use of technology depends on generating some cultural conventions around using interfaces, and best practices in graphic and user experience design have helped us evolve rapidly in those fields.
+
+Finally, many projects will be related to decisions, decrees and legislation from various governments that stipulate specific standards around how software or websites should be built and/or function. For example, US laws around accessibility for disabled people affect some sites and software, so any developer who has worked on a government or educational site should be able to tell you about Section 508 compliance and what it meant for their site.
+
+Learning how to engage with standards and best practices, where to find information about them, and how to interpret them is a key part of the web developer's job that is often overlooked. 
