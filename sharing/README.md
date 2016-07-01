@@ -1,0 +1,9 @@
+#Sharing and Collaboration
+
+This section is about "Sharing and Collaboration." We aren't discussing open source software or the open source community, per se, but the same techniques that have allowed open source software to grow and thrive are also serving most companies creating products. In order to build a website, it takes a lot of different people with a whole spectrum of different expertise. Everyone must be able to work together, making their own contributions and allowing for work to be combined when those contributions are deemed acceptable to the project.
+
+In order to facilitate this collaboration, we use many different technical tools. During this module, you'll be introduced to the concept of Version Control Systems (VCS) and, specifically, to one piece of software called Git. Git is popular and used in many settings today. We will explore the concept of version control and some of the workflows that allow for collaboration at a technical level. 
+
+Students often come out of school with knowledge of how to build web pages or make interactive media, but no real knowledge of how to work collaboratively on a team. Although it's not necessary to be an expert on day one, it is essential that you begin to learn about how to make your code available to your colleagues using version control. If you cannot use the team's version control system well enough to contribute your code back to the project, then you cannot effectively participate in the work.
+
+There are additional aspects of "sharing and collaboration" that go beyond version control software. We will explore those aspects in the next section.
