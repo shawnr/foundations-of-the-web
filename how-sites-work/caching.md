@@ -1,0 +1,11 @@
+#Content Delivery and Caching
+
+Most users are familiar with the web cache in their browser. We sometimes have to clear the cache in order to get websites to behave properly, and the cache is often blamed for many problems (whether deservedly or not). Regardless, the web cache in our browser helps us by storing static media content we download from websites and serving that up when we revisit those sites. On many websites the basic elements of the site design are only downloaded the first time we visit. From then on, when we revisit the site we pull all those files from the web cache and save the browser the time of re-downloading all that data.
+
+Given the nature of HTTP as a stateless system, and the requirement that every object online has a unique URL, we can apply the same concept of caching at various points in the web communications pipeline. We can cache data that is returned from the database when we make the same query. We can cache information that is compiled, such as review ratings for content in our website. We can cache user-specific lists of messages or notifications so we don't have to generate those in real-time when the user is waiting.
+
+Users hate to wait for data to download, so anytime we can speed up the response process we will earn more users for our website. The same goes for loading videos or downloading large images from our websites. The faster we can get the data to the user, the more happy users we will have.
+
+To enhance the speed of a site in delivering large media files, developers make use of a Content Delivery Network (CDN). CDNs are large networks of servers physically located all over the world. The CDN copies your media content out to all of its different servers, so that when somebody requests the video from your website it is actually delivered by a server that is geographically close to them. This kind of geographic optimization shaves a considerable amount off the time it takes to load or stream a video.
+
+The combination of different caching and CDN technologies can make a huge difference in terms of the speed of a website. It's critical to be aware of these technologies and recognize when to leverage them in the building process.
