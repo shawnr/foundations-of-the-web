@@ -19,10 +19,10 @@
   * [Version Control Options](sharing/vcs_options.md)
   * [A Bit About Git](sharing/git.md)
   * [Welcome to Github](sharing/github.md)
-* Web Development and the Community of Practice
-  * Organizing Development
-  * Development Roles
-  * Developer Communities
+* [Web Development and the Community of Practice](community/README.md)
+  * [Organizing Development](community/organizing_development.md)
+  * [Development Roles](community/development_roles.md)
+  * [Developer Communities](community/developer_communities.md)
 * Best Practices and Standards
   * The World Wide Web Consortium
   * How are Best Practices and Standards Determined?
