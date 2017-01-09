@@ -1,8 +1,8 @@
 #The Internet: (not) a Series of Tubes
 
-{% youtube %}https://www.youtube.com/embed/WwyJGzZmBe8{% endyoutube%}
+{% youtube %}https://www.youtube.com/embed/ewrBalT_eBM {% endyoutube%}
 
-[There and Back Again](https://www.youtube.com/embed/ewrBalT_eBM)
+[There and Back Again](https://www.youtube.com/watch?v=ewrBalT_eBM)
 
 The Internet is "a global system of interconnected networks" that communicate via Internet Protocol (TCP/IP). TCP/IP defines the way data is packaged and communicated between machines, allowing for ad hoc extension of the network and addressing for every object attached to the network. Individual machines are known by their IP Address, which is a unique number indicating that specific device.
 
